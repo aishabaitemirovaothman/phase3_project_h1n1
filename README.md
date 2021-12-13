@@ -4,4 +4,5 @@
 <br>
 <b>Instructor:</b> David Elliott
 </p>
-![FLu_Virus](https://user-images.githubusercontent.com/92397144/145736962-a9e33691-d88e-47f6-ab57-8e8dba12c443.jpg)
+
+![GettyImages-1166057429-copy-scaled](https://user-images.githubusercontent.com/92397144/145737018-1b3ded68-616c-4073-b139-2793121504b5.jpg)
