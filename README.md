@@ -1,1 +1,6 @@
-# phase3_project_h1n1
+# Seasonal Flu Vaccination Prediction Model
+<p>
+<b>Author:</b> Aisha Baitemirova-Othman
+<br>
+<b>Instructor:</b> David Elliott
+</p>
