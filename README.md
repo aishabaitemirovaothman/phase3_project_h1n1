@@ -16,4 +16,9 @@ PetSmart Arizona is looking for ways to reduce the amount of sick days that its 
 
 ## Data
 The dataset that we are using for training and testing our model is a dataset from https://www.drivendata.org/competitions/66/flu-shot-learning/. It consists of some features that each have some demographic information about a particular respondent as well as his/her opinion about flu vaccinations and whether he has a certain routine that prevents him/her from getting sick with flu. 
-The dataset originally has 35 input features. We dropped two columns that had more than 46% percent of missing data ('employment_occupation' and 'employment_industry'). All the other features that had missing values were imputed using sklearn's SimpleImputer.
+The dataset originally has 35 input features. We dropped two columns that had more than 46% percent of missing data ('employment_occupation' and 'employment_industry'). All the other features that had missing values were imputed using sklearn's SimpleImputer() transformer. 
+
+## Models and Metrics
+We used four different prediction models and compared their results using ROC AUC curve before tuning any hyperparameters. 
+<img width="738" alt="Screen Shot 2021-12-10 at 08 54 37" src="https://user-images.githubusercontent.com/92397144/146062877-fa2ec38b-8b2b-42f8-aff1-c1f1c4818523.png">
+
