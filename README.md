@@ -29,3 +29,7 @@ We found out that two of the features are particularly important when predicting
 
 <img width="399" alt="Screen Shot 2021-12-14 at 13 09 12" src="https://user-images.githubusercontent.com/92397144/146063750-c48cba31-70a7-46b3-8f8f-d398c0a864e1.png">
 
+The second important feature is whether the person's doctor recommended to get vaccinated or not. The percentage of those who got vaccinated in the group whose doctors recommended them the vaccine is a lot higher than in the other group whose doctors did not recommend the flu vaccine. 
+<img width="398" alt="Screen Shot 2021-12-14 at 13 18 07" src="https://user-images.githubusercontent.com/92397144/146064921-4242c90b-4d0f-41c6-8693-776da7bfc37e.png">
+
+
