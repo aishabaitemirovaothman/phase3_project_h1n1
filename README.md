@@ -33,4 +33,6 @@ The second important feature is whether the person's doctor recommended to get v
 
 <img width="398" alt="Screen Shot 2021-12-14 at 13 18 07" src="https://user-images.githubusercontent.com/92397144/146064921-4242c90b-4d0f-41c6-8693-776da7bfc37e.png">
 
-
+## Policy Recommendations
+* Based on our findings we think that it is very important that PetSmart work on increasing the awareness of its employees of the potential dangers and complications of flu virus. 
+* It is also very important to make sure that all of the company's employees have access to adequate and affrodable medical care. The reason for that is because the doctor's recommendation about a flu vaccine plays a major factor in whether the person is going to get vaccinated or not. We are not sure why not all people get a flu vaccine recommendation from their doctors, but we believe that one of the reasons is a possible lack of regular and affordable access to medical care. 
