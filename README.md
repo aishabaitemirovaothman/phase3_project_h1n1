@@ -1,4 +1,4 @@
-# Seasonal Flu Vaccination Prediction Model
+# Seasonal Flu Vaccination Prediction Model (In Progress)
 <p>
 <b>Author:</b> Aisha Baitemirova-Othman
 <br>
